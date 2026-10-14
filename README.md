@@ -11,7 +11,6 @@
 ![UC3M](https://img.shields.io/badge/Universidad-Carlos%20III%20de%20Madrid-003366?style=for-the-badge&logo=education)
 ![Curso](https://img.shields.io/badge/Curso-2024--2025-008000?style=for-the-badge)
 ![SUS Score](https://img.shields.io/badge/SUS%20Score-82.1%20%28Excelente%29-brightgreen?style=for-the-badge)
-![Licencia](https://img.shields.io/badge/Licencia-MIT-blue?style=for-the-badge)
 
 ![Node.js](https://img.shields.io/badge/Node.js-16%2B-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
@@ -190,14 +189,6 @@ El sistema se validó con un **estudio con usuarios en entornos reales de prueba
 
 ---
 
-## 📄 Licencia
-
-Este proyecto se distribuye con fines académicos bajo la **[Licencia MIT](LICENSE)**.
-
-<div align="center">
-
-<br>
-
-**Hecho con ❤️ y mucho karaoke en la UC3M** 🎶
+Readme hecho con Gemini
 
 </div>
